@@ -1,168 +1,272 @@
 
 DeepSeek
+
 梁文锋
 
 华为
+
 鸿蒙
+
 HarmonyOS
+
 任正非
 
 比亚迪
+
 王传福
 
 大疆
+
 DJI
 
 宇树
+
 王兴兴
 
 京东
+
 刘强东
 
 豆包
+
 字节
+
 bytedance
+
 张一鸣
 
 X
+
 特斯拉
+
 马斯克
 
 微软
+
 Microsoft
 
 英伟达
+
 NVIDIA
+
 黄仁勋
 
 谷歌
+
 google
+
 gemini
+
 deepmind
 
 chatgpt
+
 openai
+
 sora
 
 claude
+
 Anthropic
 
 iphone
+
 ipad
+
 mac
+
 ios
 
 ai
-!gai
+
+agi
+
 人工智能
 
 自动驾驶
-
-国产
-中国
 
 美国
 日本
 韩国
 
 芯片
+
 光刻机
 
 科技
 
 核能
+
 AI产品
+
 AI眼镜
+
 机器人
+
 机器狗
+
 新质生产力
  
 AI加速催化
+
 ASI
+
 原子世界
+
 数字世界
+
 先进制造（电子化/AI辅助/3D打印）
+
 自动化（自动驾驶/机器人）
+
 量子计算
+
 小型化核能
+
 脑机接口
+
 近地轨道开发
+
 物理学突破
+
 纳米
+
 分子科技
+
 企业应用升级Agent
+
 空间计算
+
 下一代娱乐脑机接口沉浸体验
+
 低轨道通讯成熟
+
 全球无死角高速互联网
 
 Coatue Fantastic
+
 Coatue AI 投资四阶段
+
 AI 超级周期
+
 Coatue 科技路线图
  
 NVIDIA
+
 Microsoft
+
 Google
+
 Amazon
+
 Tesla
+
 TSMC
+
 Meta
+
 Broadcom
+
 Oracle
+
 Tencent
+
 Arm
+
 Netflix
+
 Palantir
+
 Alibaba
+
 ASML
+
 AppLovin
+
 Shopify
+
 ServiceNow
+
 Snowflake
+
 GE Vernova
+
 Xiaomi
+
 Intuitive
+
 Spotify
+
 AMD
+
 SK Hynix
+
 CrowdStrike
+
 Uber
+
 Constellation
+
 Intuit
 
 Privates
-Bitcoin
-OpenAI
-Ethereum
-SpaceX
-Anthropic
-ByteDance
-Stripe
-Databricks
-Revolut
-xAI
 
+Bitcoin
+
+OpenAI
+
+Ethereum
+
+SpaceX
+
+Anthropic
+
+ByteDance
+
+Stripe
+
+Databricks
+
+Revolut
+
+xAI
  
 AI 生产力革命
+
 AI 算力
+
 能源
+
 数据铁三角
+
 边缘AI
+
 硬件换机潮
+
 AI数据资产与开源生态
 
 月球
+
 登月
+
 火星
+
 宇宙
+
 飞船
+
 航空
 
 世界杯
+
 世预赛
+
 欧预赛
+
 马德里竞技
+
 皇家马德里
+
 上海海港
+
 曼城
